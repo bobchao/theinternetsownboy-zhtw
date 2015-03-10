@@ -4,6 +4,15 @@ The Internet’s Own Boy 是 Aaron Swartz 的紀錄片，在原作者以創用 C
 
 這邊是我用 [Aegisub](http://www.aegisub.org/) 繼續做後續編輯的地方。
 
+# 編輯什麼？
+
+1. 統一詞彙
+2. 修改字句（包括試圖抓出翻譯問題，以及縮短太長不適影片閱讀的句子）
+3. 調整時間軸
+4. 調整位置及特效
+
+這些也是歡迎大家幫忙的地方
+
 # 為何採用 SSA 格式？
 
 我對格式不甚了解，但需要一個好的編輯器協助我編輯字幕的各式參數。Aegisub 開源、跨平台，且其採用的 SSA 格式能夠逐句微調字幕位置及樣式，遂採用之。
@@ -19,4 +28,4 @@ The Internet’s Own Boy 是 Aaron Swartz 的紀錄片，在原作者以創用 C
 
 # 授權？
 
-[創用 CC 姓名標示-非商業性-相同方式分享 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW)
+[創用 CC 姓名標示-非商業性-相同方式分享 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_TW)，同影片本身。
