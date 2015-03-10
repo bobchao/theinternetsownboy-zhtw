@@ -24,7 +24,7 @@ The Internet’s Own Boy 是 Aaron Swartz 的紀錄片，在原作者以創用 C
 1. Amara 有時好慢 orz
 2. 我需要離線能作業的方式
 
-我原先希望編輯一段就把成果傳回 Amara，但無奈 Amara 不吃 Aegisub 出的 SSA 檔。我會在全部編輯完畢後試圖在整理一份 SRT 給 Amara 吃吃看，希望它不會吐在床上。
+我原先希望編輯一段就把成果傳回 Amara，但無奈 Amara 不吃 Aegisub 出的 SSA 檔。我會在全部編輯完畢後試圖再整理一份 SRT 給 Amara 吃吃看，希望它不會吐在床上。
 
 # 授權？
 
