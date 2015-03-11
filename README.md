@@ -13,6 +13,10 @@ The Internet’s Own Boy 是 Aaron Swartz 的紀錄片，在原作者以創用 C
 
 這些也是歡迎大家幫忙的地方
 
+# 我可以幫忙，有什麼要注意的地方？
+
+請看 [Wiki 上對於格式等等的說明](https://github.com/bobchao/theinternetsownboy-zhtw/wiki)
+
 # 為何採用 SSA 格式？
 
 我對格式不甚了解，但需要一個好的編輯器協助我編輯字幕的各式參數。Aegisub 開源、跨平台，且其採用的 SSA 格式能夠逐句微調字幕位置及樣式，遂採用之。
